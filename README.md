@@ -16,7 +16,7 @@ git clone https://github.com/<your_username_here>/exceptional-realty
 cd exceptional-realty
 ```
 
-## Steps
+## Stepsa
 
 ## Tasks for LearnIDE Environment Users
 
